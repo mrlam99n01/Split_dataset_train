@@ -2,6 +2,7 @@
 
 Usage: 
   -splitdataset.py
+  
     This file is to take a proportion of train dataset to test dataset
     ├── train
     │   ├── class1
