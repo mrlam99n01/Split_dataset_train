@@ -4,7 +4,7 @@ Usage:
 
   -splitdataset.py
   
-    This file is to take a proportion of train dataset to test dataset
+    This file is to split a proportion of train dataset into test dataset
     ├── train
     │   ├── class1
     │     ├── image1.png
