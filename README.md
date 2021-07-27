@@ -1,4 +1,4 @@
-# Split_dataset_train
+# Split_dataset
 
 Usage: 
 
@@ -29,12 +29,12 @@ Usage:
     
 Dataset:
 
-  test.zip  - test datasets
+    test.zip  - test datasets
   
-  train.zip - train datasets
+    train.zip - train datasets
 
 Json File: 
 
-  train.json - train json for train dataset
+    train.json - train json for train dataset
   
-  test.json  - test json  for test dataset
+    test.json  - test json  for test dataset
